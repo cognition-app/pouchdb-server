@@ -1,5 +1,13 @@
-PouchDB Server [![Build Status](https://travis-ci.org/pouchdb/pouchdb-server.svg)](https://travis-ci.org/pouchdb/pouchdb-server) [![Greenkeeper badge](https://badges.greenkeeper.io/pouchdb/pouchdb-server.svg)](https://greenkeeper.io/)
+PouchDB Server [![Build Status](https://travis-ci.org/pouchdb/pouchdb-server.svg)](https://travis-ci.org/cognition-app/pouchdb-server) [![Greenkeeper badge](https://badges.greenkeeper.io/pouchdb/pouchdb-server.svg)](https://greenkeeper.io/)
 =====
+
+cognition-app Changelog
+---
+
+- using the main `fauxton` instead of `pouch-fauxton`
+- using `lerna` instead of the slightly more convoluted mechanism that was being used before
+
+---
 
 PouchDB Server is a drop-in replacement for CouchDB, using PouchDB and
 Node.js. It is modeled after the single-node design of CouchDB 1.x,

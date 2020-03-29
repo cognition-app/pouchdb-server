@@ -1,4 +1,5 @@
 /node_modules
+/packages/node_modules/*/node_modules
 testdb_*
 test_*
 _pouch_*
@@ -13,3 +14,4 @@ log.txt
 /pouchdb
 /tmp
 pouchdb-tests
+*.lerna_backup

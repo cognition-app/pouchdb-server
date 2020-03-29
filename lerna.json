@@ -1,0 +1,13 @@
+{
+  "packages": [
+    "packages/node_modules/*"
+  ],
+  "command": {
+    "bootstrap": {
+      "npmClientArgs": [
+        "--no-package-lock"
+      ]
+    }
+  },
+  "version": "4.2.0"
+}
